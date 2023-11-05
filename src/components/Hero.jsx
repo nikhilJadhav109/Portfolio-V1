@@ -175,7 +175,7 @@ const Coding = styled.img`
   
   `;
 const Bloob = styled.div`
-  background: #000;
+  /* background: #000; */
   height:100%;
   width:100%;
   display: flex;
