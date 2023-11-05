@@ -179,7 +179,7 @@ const Bloob = styled.div`
   height:100%;
   width:100%;
   display: flex;
-  align-items: center;
+  align-items: center; 
   justify-content: center;
   @media (max-width: 900px) {  
          display: none; 
