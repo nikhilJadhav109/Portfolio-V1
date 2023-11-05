@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { Bio } from '../data/Self'
-import { BiMenu  } from 'react-icons/Bi';
+import { BiMenu  } from 'react-icons/bi';
 import { AiOutlineClose  } from 'react-icons/Ai';
 import {HashLink as Link} from 'react-router-hash-link'
 
