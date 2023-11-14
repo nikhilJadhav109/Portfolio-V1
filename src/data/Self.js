@@ -6,7 +6,7 @@ export const Bio ={
     intoduction : "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github : "https://github.com/nikhilJadhav109",
     linkedIn :"https://www.linkedin.com/in/nikhil-jadhav-/",
-    resume:"https://drive.google.com/file/d/1LGJeumu5_KJvUfrmO-lzEuWqHsUzWaeD/view?usp=sharing"
+    resume:"https://drive.google.com/file/d/1o_bD12lFOKDnzoB5T90SeahxumxH5lt0/view?usp=sharing"
 }
 
 export const Studies = [
